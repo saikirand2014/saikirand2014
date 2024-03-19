@@ -1,4 +1,4 @@
-![logo](https://github.com/Ashutosh-PMishra/Ashutosh-PMishra/blob/main/Github%20Banner.png)
+<!-- ![logo](https://github.com/Ashutosh-PMishra/Ashutosh-PMishra/blob/main/Github%20Banner.png) -->
 <h1 align="center">Hi 👋, I'm Saikiran Deekonda</h1>
 <!-- <h3 align="center">A passionate Software Engineer from India</h3> -->
 <h3 align="center">A passionate frontend developer from India</h3>
@@ -25,7 +25,7 @@
         <img src="https://img.shields.io/badge/DeveloperSai65-30302f?style=flat&logo=Twitter&logoColor=white" alt="Twitter Badge">
     </a>
     <a >
-        <img src="https://komarev.com/ghpvc/?username=olive-green&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
+        <img src="https://komarev.com/ghpvc/?username=developersaikiran&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
     </a>
 </div>
 
@@ -70,6 +70,9 @@
         <img src="https://img.icons8.com/?size=80&id=8rKdRqZFLurS&format=png"  width="40" height="40"/> 
     </a>
     <a rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"  width="40" height="40"/> 
+    </a>
+    <a rel="noreferrer"> 
         <img src="https://img.icons8.com/?size=48&id=123603&format=png"  width="40" height="40"/> 
     </a>
     <a rel="noreferrer"> 
@@ -88,16 +91,20 @@
 
 <h3 align="left">Support:</h3>
     <a href="https://www.buymeacoffee.com/developer.sai"> 
-        <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="simplified learner" />
+        <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="developer.sai" />
     </a>
 <br>
 <br>
+<br>
+  
+<p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=developersaikiran&show_icons=true&locale=en&layout=compact" alt="developersaikiran" />
+</p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olive-green&layout=compact&hide=php,c,html,roff&langs_count=10" alt="olive-green" /> 
+    &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=developersaikiran&show_icons=true&locale=en" alt="developersaikiran" />
 </p>
-  
-<div align="center">
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashutosh-pmishra&show_icons=true&locale=en" alt="ashutosh-pmishra" /></p>
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashutosh-pmishra&" alt="ashutosh-pmishra" /></p>
-</div>
+
+<p align="center">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=developersaikiran&" alt="developersaikiran" />
+</p>
